@@ -1,0 +1,5 @@
+{
+  "name": "Job Finder Chatbot",
+  "description": "An AI-powered chatbot to guide users in their job search by providing suggestions on roles, platforms, skills, and interview preparation.",
+  "requestFramePermissions": []
+}
